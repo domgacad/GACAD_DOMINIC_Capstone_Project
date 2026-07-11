@@ -1,0 +1,17 @@
+source_feature,total_importance,transformed_components,importance_percentage
+early_event_gap_log1p,1604,1,17.822222222222223
+price_for_aggregation_second,1289,2,14.322222222222223
+price_for_aggregation_first,1252,2,13.91111111111111
+brand_clean_second,1022,164,11.355555555555556
+category_code_clean_second,720,99,8.0
+first_event_hour,703,24,7.811111111111112
+brand_clean_first,678,165,7.533333333333333
+first_event_dayofweek,609,7,6.766666666666667
+category_code_clean_first,601,97,6.677777777777778
+early_unique_products,150,1,1.6666666666666667
+early_unique_brands,93,1,1.0333333333333332
+early_unique_categories,83,1,0.9222222222222222
+early_cart_count,81,1,0.8999999999999999
+first_event_is_weekend,75,2,0.8333333333333334
+event_type_second,39,2,0.4333333333333333
+early_zero_price_event_count,1,1,0.011111111111111112

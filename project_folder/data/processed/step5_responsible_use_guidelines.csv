@@ -1,0 +1,7 @@
+guideline,description
+Recommended use,"Use the model to prioritize sessions for marketing, remarketing, or customer engagement."
+Not recommended use,"Do not use the model to deny offers, reduce service quality, or permanently label customers as low value."
+Human oversight,Business teams should review model outputs and campaign rules before actioning predictions.
+Customer treatment,"Customers should still receive fair access to normal offers, browsing, and service regardless of model score."
+Monitoring,"Track precision, recall, false positives, false negatives, and segment-level performance over time."
+Retraining,"Retrain the model when customer behavior, product catalog, seasonality, or campaign strategy changes."

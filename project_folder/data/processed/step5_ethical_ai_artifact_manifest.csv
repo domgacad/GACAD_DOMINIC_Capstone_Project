@@ -1,0 +1,15 @@
+artifact,path
+Overall test error and ethical risk summary,Displayed in notebook
+Sensitive attribute availability review,Displayed in notebook
+Segment-level model audit results,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_segment_level_model_audit_results.csv
+Segment-level model audit summary,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_segment_level_model_audit_summary.csv
+High-risk segment groups,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_high_risk_segment_groups.csv
+Model explainability summary,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_model_explainability_summary.csv
+PDP/ICE explainability summary,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_pdp_ice_explainability_summary.csv
+Ethical limitations and mitigations,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_ethical_limitations_and_mitigations.csv
+Responsible use guidelines,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step5_responsible_use_guidelines.csv
+PDP/ICE chart - early_event_gap_log1p,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step5_pdp_ice_early_event_gap_log1p.png
+PDP/ICE chart - price_for_aggregation_first,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step5_pdp_ice_price_for_aggregation_first.png
+PDP/ICE chart - price_for_aggregation_second,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step5_pdp_ice_price_for_aggregation_second.png
+PDP/ICE chart - early_cart_count,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step5_pdp_ice_early_cart_count.png
+PDP/ICE chart - early_unique_products,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step5_pdp_ice_early_unique_products.png

@@ -1,0 +1,10 @@
+column,missing_count,blank_string_count,missing_percentage,blank_string_percentage
+brand,8992487,0,13.504408848585031,0.0
+category_code,6755873,0,10.145588325133714,0.0
+user_session,109,0,0.00016369004086364187,0.0
+event_time,0,0,0.0,0.0
+event_type,0,0,0.0,0.0
+category_id,0,0,0.0,0.0
+product_id,0,0,0.0,0.0
+price,0,0,0.0,0.0
+user_id,0,0,0.0,0.0

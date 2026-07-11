@@ -1,0 +1,13 @@
+artifact,path
+Final LightGBM model pipeline,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\models\step4_final_lightgbm_purchase_propensity_pipeline.joblib
+Final LightGBM model metadata,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\models\step4_final_lightgbm_model_metadata.json
+Final LightGBM test predictions,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_final_lightgbm_test_predictions.csv
+Final LightGBM test evaluation summary,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_final_lightgbm_test_evaluation_summary.csv
+Final LightGBM raw feature importance,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_final_lightgbm_raw_feature_importance.csv
+Final LightGBM transformed feature importance,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_final_lightgbm_transformed_feature_importance.csv
+Final LightGBM feature importance chart,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\reports\step4_final_lightgbm_feature_importance.png
+Initial validation model comparison,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_initial_validation_model_comparison.csv
+LightGBM tuning results,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_lightgbm_time_series_tuning_results.csv
+Top-model threshold comparison,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_top_model_threshold_comparison.csv
+Top-model ranking comparison,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_top_model_ranking_comparison.csv
+Final model comparison report,C:\Users\User\OneDrive\Documents\GACAD_DOMINIC_Capstone\project_folder\data\processed\step4_final_model_comparison_report.csv

@@ -1,0 +1,514 @@
+transformed_feature,l1_coefficient,absolute_coefficient,selected_by_l1,source_feature,association_direction
+numeric__early_cart_count,0.7964759188995179,0.7964759188995179,True,early_cart_count,Positive association with future purchase
+categorical__first_event_dayofweek_0,-0.6025684874306751,0.6025684874306751,True,first_event_dayofweek,Negative association with future purchase
+categorical__first_event_dayofweek_1,-0.5895719727369834,0.5895719727369834,True,first_event_dayofweek,Negative association with future purchase
+categorical__brand_clean_second_arg,0.41224282610718505,0.41224282610718505,True,brand_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_construction.tools.light,0.39215800538217804,0.39215800538217804,True,category_code_clean_second,Positive association with future purchase
+categorical__brand_clean_second_lg,0.36698109090689013,0.36698109090689013,True,brand_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_appliances.personal.hair_cutter,0.3353256372432,0.3353256372432,True,category_code_clean_second,Positive association with future purchase
+categorical__brand_clean_second_defacto,-0.30548072057147274,0.30548072057147274,True,brand_clean_second,Negative association with future purchase
+categorical__first_event_hour_20,-0.2920195422388107,0.2920195422388107,True,first_event_hour,Negative association with future purchase
+categorical__first_event_hour_1,-0.2913026647115586,0.2913026647115586,True,first_event_hour,Negative association with future purchase
+categorical__brand_clean_second_apple,0.28556426133664237,0.28556426133664237,True,brand_clean_second,Positive association with future purchase
+categorical__brand_clean_second_microlab,0.2805692641154893,0.2805692641154893,True,brand_clean_second,Positive association with future purchase
+categorical__first_event_hour_19,-0.2745360760113257,0.2745360760113257,True,first_event_hour,Negative association with future purchase
+categorical__category_code_clean_second_kids.swing,0.2712272302823867,0.2712272302823867,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_first_electronics.camera.photo,0.26911749618010833,0.26911749618010833,True,category_code_clean_first,Positive association with future purchase
+numeric__price_for_aggregation_second,-0.26028113984960227,0.26028113984960227,True,price_for_aggregation_second,Negative association with future purchase
+categorical__brand_clean_second_samsung,0.25040071482325826,0.25040071482325826,True,brand_clean_second,Positive association with future purchase
+categorical__first_event_hour_18,-0.24931620112445244,0.24931620112445244,True,first_event_hour,Negative association with future purchase
+categorical__first_event_hour_11,0.24857526097457924,0.24857526097457924,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_9,0.24393574858868744,0.24393574858868744,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_17,-0.24232026942489376,0.24232026942489376,True,first_event_hour,Negative association with future purchase
+categorical__category_code_clean_second_electronics.audio.headphone,0.23977608094756123,0.23977608094756123,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_accessories.bag,-0.22884230010059353,0.22884230010059353,True,category_code_clean_second,Negative association with future purchase
+categorical__first_event_hour_7,0.2238658376850956,0.2238658376850956,True,first_event_hour,Positive association with future purchase
+categorical__category_code_clean_second_construction.tools.drill,-0.21612741998507884,0.21612741998507884,True,category_code_clean_second,Negative association with future purchase
+categorical__category_code_clean_second_furniture.kitchen.table,0.21394051364426275,0.21394051364426275,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_apparel.scarf,-0.19861593013834575,0.19861593013834575,True,category_code_clean_second,Negative association with future purchase
+categorical__category_code_clean_second_appliances.kitchen.refrigerators,0.18079273062346946,0.18079273062346946,True,category_code_clean_second,Positive association with future purchase
+categorical__first_event_hour_10,0.17978969157117308,0.17978969157117308,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_21,-0.1775402691563873,0.1775402691563873,True,first_event_hour,Negative association with future purchase
+categorical__brand_clean_second_maxwell,0.17518629972188876,0.17518629972188876,True,brand_clean_second,Positive association with future purchase
+categorical__first_event_hour_16,-0.17376320752934624,0.17376320752934624,True,first_event_hour,Negative association with future purchase
+categorical__category_code_clean_first_appliances.personal.massager,0.17224123144284526,0.17224123144284526,True,category_code_clean_first,Positive association with future purchase
+categorical__category_code_clean_second_apparel.shoes,-0.16720548972252036,0.16720548972252036,True,category_code_clean_second,Negative association with future purchase
+categorical__category_code_clean_first_appliances.kitchen.washer,0.16629729081767727,0.16629729081767727,True,category_code_clean_first,Positive association with future purchase
+categorical__first_event_hour_8,0.16569430813067698,0.16569430813067698,True,first_event_hour,Positive association with future purchase
+categorical__category_code_clean_second_sport.bicycle,0.16487655814507338,0.16487655814507338,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_sport.trainer,-0.1590909879560998,0.1590909879560998,True,category_code_clean_second,Negative association with future purchase
+numeric__early_unique_categories,-0.15829733584395844,0.15829733584395844,True,early_unique_categories,Negative association with future purchase
+categorical__category_code_clean_first_electronics.audio.headphone,0.157317909883005,0.157317909883005,True,category_code_clean_first,Positive association with future purchase
+categorical__brand_clean_first_midea,0.15731225395686546,0.15731225395686546,True,brand_clean_first,Positive association with future purchase
+categorical__category_code_clean_first_apparel.shoes,0.15729026650518188,0.15729026650518188,True,category_code_clean_first,Positive association with future purchase
+categorical__brand_clean_second_redmond,0.14864851750162883,0.14864851750162883,True,brand_clean_second,Positive association with future purchase
+categorical__brand_clean_first_sony,0.1439206212749684,0.1439206212749684,True,brand_clean_first,Positive association with future purchase
+categorical__brand_clean_second_oppo,0.1437332553341528,0.1437332553341528,True,brand_clean_second,Positive association with future purchase
+categorical__brand_clean_first_pulser,-0.13347008986801345,0.13347008986801345,True,brand_clean_first,Negative association with future purchase
+categorical__category_code_clean_second_apparel.shorts,-0.13215031049384393,0.13215031049384393,True,category_code_clean_second,Negative association with future purchase
+categorical__brand_clean_first_artel,0.1291669786111978,0.1291669786111978,True,brand_clean_first,Positive association with future purchase
+categorical__brand_clean_first_unknown,-0.12235967844776763,0.12235967844776763,True,brand_clean_first,Negative association with future purchase
+categorical__category_code_clean_first_construction.tools.drill,-0.1223528022444471,0.1223528022444471,True,category_code_clean_first,Negative association with future purchase
+categorical__brand_clean_second_asel,-0.1175287568223451,0.1175287568223451,True,brand_clean_second,Negative association with future purchase
+categorical__first_event_hour_12,0.11487321347495216,0.11487321347495216,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_4,0.10643553316554417,0.10643553316554417,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_13,0.10216746876688057,0.10216746876688057,True,first_event_hour,Positive association with future purchase
+categorical__first_event_hour_6,0.10096654830828193,0.10096654830828193,True,first_event_hour,Positive association with future purchase
+categorical__brand_clean_first_infrequent_sklearn,-0.0963518826314018,0.0963518826314018,True,brand_clean_first,Negative association with future purchase
+categorical__category_code_clean_second_furniture.living_room.sofa,0.09302090562372876,0.09302090562372876,True,category_code_clean_second,Positive association with future purchase
+categorical__brand_clean_second_huawei,0.0916697584718701,0.0916697584718701,True,brand_clean_second,Positive association with future purchase
+categorical__category_code_clean_first_apparel.trousers,0.09109937088172057,0.09109937088172057,True,category_code_clean_first,Positive association with future purchase
+categorical__category_code_clean_first_sport.trainer,-0.08890604483474947,0.08890604483474947,True,category_code_clean_first,Negative association with future purchase
+categorical__brand_clean_first_tp-link,-0.08557526631458702,0.08557526631458702,True,brand_clean_first,Negative association with future purchase
+categorical__first_event_hour_23,-0.08344415320667277,0.08344415320667277,True,first_event_hour,Negative association with future purchase
+categorical__category_code_clean_second_furniture.bedroom.blanket,0.0804940935102406,0.0804940935102406,True,category_code_clean_second,Positive association with future purchase
+categorical__brand_clean_second_tp-link,-0.0800584508109906,0.0800584508109906,True,brand_clean_second,Negative association with future purchase
+categorical__category_code_clean_second_infrequent_sklearn,-0.07831390589657229,0.07831390589657229,True,category_code_clean_second,Negative association with future purchase
+categorical__brand_clean_second_lenovo,0.07484111895563846,0.07484111895563846,True,brand_clean_second,Positive association with future purchase
+numeric__missingindicator_price_for_aggregation_second,-0.07370990390843585,0.07370990390843585,True,price_for_aggregation_second,Negative association with future purchase
+categorical__brand_clean_second_cordiant,0.07263972437969082,0.07263972437969082,True,brand_clean_second,Positive association with future purchase
+categorical__category_code_clean_first_electronics.camera.video,0.06718486988682189,0.06718486988682189,True,category_code_clean_first,Positive association with future purchase
+numeric__early_event_gap_log1p,-0.06679930591831815,0.06679930591831815,True,early_event_gap_log1p,Negative association with future purchase
+categorical__first_event_hour_5,0.063572554574218,0.063572554574218,True,first_event_hour,Positive association with future purchase
+categorical__category_code_clean_second_sport.ski,0.05332844637905224,0.05332844637905224,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_electronics.clocks,0.05028483038378196,0.05028483038378196,True,category_code_clean_second,Positive association with future purchase
+categorical__brand_clean_second_xiaomi,-0.04662946014147373,0.04662946014147373,True,brand_clean_second,Negative association with future purchase
+categorical__category_code_clean_first_appliances.kitchen.toster,-0.045826905167295554,0.045826905167295554,True,category_code_clean_first,Negative association with future purchase
+categorical__brand_clean_first_apple,0.044781217345489996,0.044781217345489996,True,brand_clean_first,Positive association with future purchase
+categorical__brand_clean_second_infrequent_sklearn,-0.04339235883300199,0.04339235883300199,True,brand_clean_second,Negative association with future purchase
+categorical__brand_clean_first_lenovo,0.04181850296959418,0.04181850296959418,True,brand_clean_first,Positive association with future purchase
+categorical__category_code_clean_second_furniture.bathroom.bath,0.0417401389892717,0.0417401389892717,True,category_code_clean_second,Positive association with future purchase
+numeric__early_unique_brands,-0.03916235087557464,0.03916235087557464,True,early_unique_brands,Negative association with future purchase
+categorical__brand_clean_first_polaris,0.03788978772424956,0.03788978772424956,True,brand_clean_first,Positive association with future purchase
+categorical__brand_clean_first_lg,0.03732398501512888,0.03732398501512888,True,brand_clean_first,Positive association with future purchase
+numeric__price_for_aggregation_first,-0.03401871796967642,0.03401871796967642,True,price_for_aggregation_first,Negative association with future purchase
+categorical__first_event_dayofweek_6,-0.03253144177127978,0.03253144177127978,True,first_event_dayofweek,Negative association with future purchase
+categorical__first_event_dayofweek_4,0.031697530593989526,0.031697530593989526,True,first_event_dayofweek,Positive association with future purchase
+categorical__first_event_hour_0,-0.029898142026912614,0.029898142026912614,True,first_event_hour,Negative association with future purchase
+categorical__category_code_clean_second_computers.desktop,0.025480937589363012,0.025480937589363012,True,category_code_clean_second,Positive association with future purchase
+categorical__category_code_clean_second_construction.tools.welding,-0.020239407289398152,0.020239407289398152,True,category_code_clean_second,Negative association with future purchase
+categorical__category_code_clean_second_appliances.kitchen.mixer,0.02005142359862145,0.02005142359862145,True,category_code_clean_second,Positive association with future purchase
+categorical__first_event_dayofweek_2,0.01829657180104516,0.01829657180104516,True,first_event_dayofweek,Positive association with future purchase
+numeric__early_zero_price_event_count,-0.01696269153809097,0.01696269153809097,True,early_zero_price_event_count,Negative association with future purchase
+categorical__brand_clean_second_asus,-0.01440398876379795,0.01440398876379795,True,brand_clean_second,Negative association with future purchase
+categorical__category_code_clean_first_kids.skates,-0.01326817452538874,0.01326817452538874,True,category_code_clean_first,Negative association with future purchase
+categorical__brand_clean_second_bosch,-0.010990329386676611,0.010990329386676611,True,brand_clean_second,Negative association with future purchase
+categorical__category_code_clean_first_apparel.scarf,-0.010885091806403955,0.010885091806403955,True,category_code_clean_first,Negative association with future purchase
+categorical__brand_clean_first_xiaomi,-0.010714616161401742,0.010714616161401742,True,brand_clean_first,Negative association with future purchase
+numeric__early_unique_products,0.009613919746816855,0.009613919746816855,True,early_unique_products,Positive association with future purchase
+categorical__brand_clean_first_hp,-0.008614365373063936,0.008614365373063936,True,brand_clean_first,Negative association with future purchase
+categorical__brand_clean_second_unknown,0.007659604151666885,0.007659604151666885,True,brand_clean_second,Positive association with future purchase
+categorical__first_event_dayofweek_3,0.004877097045083645,0.004877097045083645,True,first_event_dayofweek,Positive association with future purchase
+categorical__event_type_second_cart,0.0048751521175804495,0.0048751521175804495,True,event_type_second,Positive association with future purchase
+categorical__category_code_clean_first_appliances.kitchen.blender,0.0040309353915598395,0.0040309353915598395,True,category_code_clean_first,Positive association with future purchase
+categorical__category_code_clean_first_appliances.environment.air_heater,-0.0030216845583836316,0.0030216845583836316,True,category_code_clean_first,Negative association with future purchase
+categorical__first_event_hour_14,0.0016409673300056935,0.0016409673300056935,True,first_event_hour,Positive association with future purchase
+categorical__first_event_is_weekend_1,-6.902395082505188e-05,6.902395082505188e-05,True,first_event_is_weekend,Negative association with future purchase
+categorical__first_event_is_weekend_0,7.470547694400812e-09,7.470547694400812e-09,False,first_event_is_weekend,Positive association with future purchase
+categorical__category_code_clean_first_electronics.audio.music_tools.piano,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.audio.subwoofer,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.clocks,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.smartphone,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.tablet,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.telephone,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.video.projector,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.video.tv,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.bathroom.bath,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.bedroom.bed,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.bedroom.blanket,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.kitchen.chair,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.kitchen.table,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.living_room.cabinet,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.living_room.chair,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.living_room.sofa,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_furniture.universal.light,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_kids.swing,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_kids.toys,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_sport.bicycle,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_sport.ski,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_sport.snowboard,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_sport.tennis,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_unknown,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_infrequent_sklearn,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_second_accessories.wallet,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.costume,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.jeans,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.jumper,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.pajamas,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shirt,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.espadrilles,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.keds,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.moccasins,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.sandals,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.slipons,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.shoes.step_ins,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.sock,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.trousers,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.tshirt,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_apparel.underwear,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.environment.air_conditioner,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.environment.air_heater,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.environment.climate,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.environment.vacuum,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.blender,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.coffee_grinder,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.dishwasher,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.grill,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.hob,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.hood,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.juicer,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.kettle,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.oven,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.toster,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.kitchen.washer,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.personal.massager,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.personal.scales,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_appliances.sewing_machine,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_auto.accessories.alarm,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_auto.accessories.compressor,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_auto.accessories.radar,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.components.cooler,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.components.motherboard,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.components.power_supply,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.ebooks,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.notebook,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.peripherals.mouse,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_computers.peripherals.printer,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_construction.components.faucet,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_construction.tools.generator,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_construction.tools.pump,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_construction.tools.saw,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_country_yard.cultivator,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.audio.acoustic,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.audio.microphone,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.audio.music_tools.piano,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.audio.subwoofer,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.camera.photo,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.camera.video,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.smartphone,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.tablet,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.telephone,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.video.projector,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_electronics.video.tv,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_furniture.bedroom.bed,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_furniture.kitchen.chair,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_furniture.living_room.cabinet,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_furniture.living_room.chair,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_furniture.universal.light,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_kids.skates,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_kids.toys,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_sport.snowboard,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_sport.tennis,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_second_unknown,0.0,0.0,False,category_code_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_first_a-case,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_acer,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_adidas,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_aerocool,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_almacom,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_alteco,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_amd,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_arg,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_ariston,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_asel,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_asus,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_atlant,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_baden,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_beko,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_bosch,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_bq,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_braun,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_brw,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_bts,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_canon,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_canyon,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_carfashion,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_casio,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_centek,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_chayka,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_cordiant,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_crown,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_dauscher,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_decathlon,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_defacto,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_defender,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_dell,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_delonghi,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_dyson,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_electrolux,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_elenberg,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_epson,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_escan,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_force,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_galaxy,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_gefest,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_gf,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_giant,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_gigabyte,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_gorenje,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_haier,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_hansa,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_hasbro,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_honor,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_housefit,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_huawei,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_huggies,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_huter,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_hygge,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_hyperx,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.peripherals.printer,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_intel,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_intex,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_iqos,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_jade,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_jaguar,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_janome,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_jbl,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_jvc,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_karcher,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_kenwood,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_kicx,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_kingston,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_kitfort,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_lego,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__first_event_hour_3,0.0,0.0,False,first_event_hour,Coefficient shrunk to zero
+numeric__missingindicator_price_for_aggregation_first,0.0,0.0,False,price_for_aggregation_first,Coefficient shrunk to zero
+categorical__brand_clean_first_lider,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_logitech,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_lorelli,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_lucente,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_magnetta,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_maxwell,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_meizu,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_microsoft,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__event_type_first_cart,0.0,0.0,False,event_type_first,Coefficient shrunk to zero
+categorical__brand_clean_first_msi,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_nika,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_nike,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_nokia,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_nokian,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_omron,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_oneplus,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_oppo,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_panasonic,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_philips,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_phoenix,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_pioneer,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__event_type_first_view,0.0,0.0,False,event_type_first,Coefficient shrunk to zero
+categorical__brand_clean_first_prestigio,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__event_type_second_view,0.0,0.0,False,event_type_second,Coefficient shrunk to zero
+categorical__brand_clean_first_puma,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_realme,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_redmond,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_respect,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_restime,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_ritmix,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_rivertoys,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_rondell,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_rowenta,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_samsung,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_scarlett,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_skad,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_sokolov,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_accessories.bag,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_stagg,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_stels,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_sv,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_sven,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_swat,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_tcl,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_tefal,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_thermomix,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_torrent,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_indesit,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_tramontina,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_transcend,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_triangle,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_trust,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_tunga,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_accessories.wallet,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_verloni,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_viatti,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_vitek,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_vivo,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_x-game,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.jeans,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_first_yokohama,0.0,0.0,False,brand_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.jumper,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_a-case,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_acer,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_adidas,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_aerocool,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_almacom,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_alteco,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_amd,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.pajamas,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shirt,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_ariston,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_artel,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.espadrilles,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.keds,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_atlant,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_axis,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_baden,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_beko,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.moccasins,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_bq,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_braun,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_brw,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_bts,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_canon,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_canyon,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_carfashion,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_casio,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_centek,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_chayka,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_chicco,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.sandals,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_crown,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_dauscher,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_decathlon,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.slipons,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_defender,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_dell,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_delonghi,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_dewalt,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_dyson,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_electrolux,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_elenberg,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_epson,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_escan,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_force,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_galaxy,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_garmin,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_gefest,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_gf,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_giant,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_gigabyte,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_gorenje,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_haier,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_hansa,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_harper,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_hasbro,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_honor,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_housefit,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_hp,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shoes.step_ins,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_huggies,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_huter,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_hygge,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_hyperx,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_indesit,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_intel,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_intex,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_iqos,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_jade,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_jaguar,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_janome,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_jbl,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_jvc,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_karcher,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_kenwood,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_kicx,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_kingston,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_kitfort,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_kivi,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_lego,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.shorts,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.sock,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_lider,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_logitech,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_lorelli,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_lucente,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_magnetta,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.tshirt,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_meizu,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.underwear,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_microsoft,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_midea,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_moulinex,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_msi,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_netechnics,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_nike,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_nokia,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_nokian,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_omron,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_oneplus,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.environment.air_conditioner,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_panasonic,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_philips,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_phoenix,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_pioneer,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_polaris,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_prestigio,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_pulser,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_puma,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_realme,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.environment.climate,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_respect,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_ritmix,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_rivertoys,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_rondell,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_rowenta,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.environment.vacuum,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_scarlett,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_skad,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_sokolov,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_sony,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_stagg,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_stels,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_sv,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_sven,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_swat,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_tcl,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_tefal,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_texet,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_thermomix,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_torrent,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.coffee_grinder,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_tramontina,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_transcend,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_triangle,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_trust,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_tunga,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.dishwasher,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_viatti,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_vitek,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_vivo,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_x-game,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.grill,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__brand_clean_second_yasin,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__brand_clean_second_yokohama,0.0,0.0,False,brand_clean_second,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.hob,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.hood,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.juicer,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.kettle,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.mixer,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.oven,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.kitchen.refrigerators,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.personal.hair_cutter,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__first_event_hour_15,0.0,0.0,False,first_event_hour,Coefficient shrunk to zero
+categorical__category_code_clean_first_appliances.sewing_machine,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_auto.accessories.alarm,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_auto.accessories.compressor,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_auto.accessories.radar,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__first_event_hour_2,0.0,0.0,False,first_event_hour,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.components.cooler,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.components.motherboard,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__first_event_hour_22,0.0,0.0,False,first_event_hour,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.components.power_supply,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.desktop,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.ebooks,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.notebook,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_computers.peripherals.mouse,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.components.faucet,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.generator,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.light,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.painting,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.pump,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.saw,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_construction.tools.welding,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_country_yard.cultivator,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__first_event_dayofweek_5,0.0,0.0,False,first_event_dayofweek,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.audio.acoustic,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_electronics.audio.microphone,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero
+categorical__category_code_clean_first_apparel.costume,0.0,0.0,False,category_code_clean_first,Coefficient shrunk to zero

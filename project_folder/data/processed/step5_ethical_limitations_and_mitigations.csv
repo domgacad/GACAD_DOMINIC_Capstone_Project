@@ -1,0 +1,10 @@
+limitation_area,limitation_or_risk,recommended_mitigation
+No direct demographic attributes,"The dataset does not contain gender, race, age, income, or other protected demographic attributes.","Do not claim formal demographic fairness. Collect sensitive attributes only if legally, ethically, and operationally justified."
+Proxy/segment fairness only,"Fairness analysis can only be performed across available product, time, price, and behavior segments.","Continue segment-level monitoring and avoid using the model for decisions that affect access, eligibility, or service quality."
+Class imbalance,"Future-purchase sessions are the minority class, making PR-AUC and recall important.","Use PR-AUC, precision, recall, F1-score, and threshold analysis instead of accuracy alone."
+False negatives,"The model misses some actual future purchasers, especially sessions without early cart behavior.",Do not treat unflagged sessions as low-value customers. Use the model for prioritization only.
+False positives,"Some non-purchasing sessions are still targeted, which may waste marketing resources.",Avoid aggressive or manipulative targeting. Apply frequency caps and responsible marketing rules.
+Behavioral bias toward immediate intent,The model strongly favors sessions with early cart activity and may under-target slower exploratory shoppers.,Consider secondary campaigns for exploratory users or use multiple thresholds for different engagement strategies.
+Temporal generalization,"The dataset covers April 2020 only, so model behavior may change across future months, campaigns, or market conditions.",Retrain and validate the model on newer data before production deployment.
+Non-causal interpretation,"Feature importance, PDP, ICE, and segment audits show associations in model behavior, not causal effects.",Avoid causal claims. Present explanations as predictive associations only.
+Model monitoring need,Performance and segment-level behavior may drift after deployment.,"Monitor performance by segment, recalibrate thresholds, and retrain if drift is detected."

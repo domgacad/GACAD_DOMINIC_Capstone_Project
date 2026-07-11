@@ -1,0 +1,8 @@
+explainability_area,finding
+Model type,LightGBM gradient boosting classifier
+Primary explanation method,"Model-based feature importance, segment-level audits, and error analysis"
+Most important feature,early_event_gap_log1p
+Main behavioral signal,Early session speed and early cart behavior influence purchase propensity.
+Main product-context signal,"Brand, category, and first/second observed prices influence predicted purchase probability."
+Main timing signal,The gap between the first two events and first-event time features are important.
+Important interpretation caution,"Feature importance shows association, not causation. It should not be interpreted as proof that a feature causes purchase."

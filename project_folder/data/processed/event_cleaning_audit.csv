@@ -1,0 +1,15 @@
+check,value
+Event records after deduplication,"980,664"
+Unique sessions,"173,519"
+Exact duplicate rows remaining,0
+Missing user_session values,0
+Invalid event_time values,0
+Missing original brand values,"132,514"
+Missing original category_code values,"98,758"
+Unknown brand values after cleaning,"132,514"
+Unknown category_code values after cleaning,"98,758"
+Missing price values,0
+Zero-price event records retained,824
+Negative price records,0
+Non-positive price records,824
+Missing price_for_aggregation values,824

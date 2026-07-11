@@ -1,0 +1,13 @@
+check,value
+Final model-ready sessions,"92,799"
+Target column,future_purchase
+Retained raw features,16
+Retained numeric features,8
+Retained categorical features,8
+Excluded raw features,1
+Duplicate session rows,0
+Missing target labels,0
+Invalid prediction timestamps,0
+Future-purchase sessions,"11,675"
+Future non-purchase sessions,"81,124"
+Future-purchase rate,12.58%

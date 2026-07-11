@@ -6,7 +6,8 @@ data/raw/
 
 # Large CSV files
 # This prevents accidentally uploading the 8GB raw dataset
-*.csv
+data/raw/
+data/raw/*.csv
 
 # Python cache
 __pycache__/
@@ -32,3 +33,12 @@ Thumbs.db
 # Optional: ignore model files if too large
 # models/*.joblib
 # models/*.pkl
+
+# Raw dataset and large intermediate data files
+project_folder/data/raw/
+project_folder/data/raw/*.csv
+
+# Large processed event-level/intermediate files
+project_folder/data/processed/event_sample_*.csv
+project_folder/data/processed/*checkpoint*.csv
+project_folder/data/processed/archive_old_step3_step4/

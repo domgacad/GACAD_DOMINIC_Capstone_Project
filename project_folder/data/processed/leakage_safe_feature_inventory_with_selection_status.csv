@@ -1,0 +1,18 @@
+feature,model_role,feature_type,dtype_after_validation,missing_count,missing_percentage,unique_values,planned_treatment,selected_by_l1_feature_selection,selection_status
+early_cart_count,Candidate predictor,Numeric,int8,0,0.0,3,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+early_unique_products,Candidate predictor,Numeric,int64,0,0.0,2,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+early_unique_categories,Candidate predictor,Numeric,int64,0,0.0,2,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+early_unique_brands,Candidate predictor,Numeric,int64,0,0.0,2,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+early_zero_price_event_count,Candidate predictor,Numeric,int8,0,0.0,3,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+price_for_aggregation_first,Candidate predictor,Numeric,float64,63,0.0678886625933469,13598,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+price_for_aggregation_second,Candidate predictor,Numeric,float64,55,0.0592678800418108,14181,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+early_event_gap_log1p,Candidate predictor,Numeric,float64,0,0.0,2675,Median imputation within training pipeline; scaling if needed.,True,Retained for Step 4 model implementation
+event_type_first,Candidate predictor,Categorical,string,0,0.0,2,Categorical encoding within training pipeline; handle unseen/infrequent values.,False,Excluded after embedded L1 feature selection
+event_type_second,Candidate predictor,Categorical,string,0,0.0,2,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+category_code_clean_first,Candidate predictor,Categorical,string,0,0.0,134,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+category_code_clean_second,Candidate predictor,Categorical,string,0,0.0,133,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+brand_clean_first,Candidate predictor,Categorical,string,0,0.0,2054,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+brand_clean_second,Candidate predictor,Categorical,string,0,0.0,2058,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+first_event_hour,Candidate predictor,Categorical,string,0,0.0,24,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+first_event_dayofweek,Candidate predictor,Categorical,string,0,0.0,7,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
+first_event_is_weekend,Candidate predictor,Categorical,string,0,0.0,2,Categorical encoding within training pipeline; handle unseen/infrequent values.,True,Retained for Step 4 model implementation
