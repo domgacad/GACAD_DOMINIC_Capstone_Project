@@ -304,7 +304,6 @@ Run the notebooks in this order:
 03_data_preprocessing_eda_feature_engineering.ipynb
 04_model_implementation.ipynb
 05_ethical_thinking_ethical_ai_bias_auditing.ipynb
-06_final_presentation.ipynb
 ```
 
 ### 5. Main Outputs by Step
@@ -316,7 +315,6 @@ Run the notebooks in this order:
 | Step 3 | Cleaned event dataset, leakage-safe modeling dataset, feature inventory, PCA, feature selection |
 | Step 4 | Model comparison, tuned models, final LightGBM model, test predictions, feature importance |
 | Step 5 | Ethical AI audit, segment-level bias audit, PDP/ICE explainability, mitigation plan |
-| Step 6 | Technical and business presentation decks |
 
 ### 6. Final Model Artifacts
 
